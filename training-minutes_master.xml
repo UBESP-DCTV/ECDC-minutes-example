@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><?mso-infoPathSolution solutionVersion="1.0.0.7" productVersion="15.0.0" PIVersion="1.0.0.0" href="file:///C:\Users\corrado.lanera\Università%20degli%20Studi%20di%20Padova\ECDC%202018%20-%20Documenti\Scenario-1_training\minutes\master\UBESP%20meeting.xsn" name="urn:schemas-microsoft-com:office:infopath:UBESP-meeting:-myXSD-2005-10-21T21-12-27" ?><?mso-application progid="InfoPath.Document" versionProgid="InfoPath.Document.2"?><?mso-infoPath-file-attachment-present?><my:meetingAgenda xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-10-21T21:12:27" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003" xml:lang="en-us">
+	<my:meeting>
+		<my:meetingTitle>ECDC Kick-off: Training MCAR R-pkg</my:meetingTitle>
+		<my:meetingOrganizer>Tenderer</my:meetingOrganizer>
+		<my:meetingLocation>ECDC premises</my:meetingLocation>
+		<my:meetingDate>2018-12-03</my:meetingDate>
+		<my:meetingStartTime>09:30:00+02:00</my:meetingStartTime>
+		<my:meetingEndTime>17:30:00+01:00</my:meetingEndTime>
+		<my:meetingObjective>Acquire needed knowledge and define main objectives for the MCAR ECDC R package training</my:meetingObjective>
+	</my:meeting>
+	<my:attendees>
+		<my:attendee>
+			<my:attendeeName>ECDC training manager</my:attendeeName>
+			<my:attendeeEmail>training.manager@ecdc.europa.eu</my:attendeeEmail>
+		</my:attendee>
+	<my:attendee>
+										<my:attendeeName>ECDC package developer</my:attendeeName>
+										<my:attendeeEmail>package.developer@ecdc.europa.eu</my:attendeeEmail>
+									</my:attendee><my:attendee>
+										<my:attendeeName>ECDC package expert user</my:attendeeName>
+										<my:attendeeEmail>package.expert.user@ecdc.europa.eu</my:attendeeEmail>
+									</my:attendee><my:attendee>
+										<my:attendeeName>ECDC training administrative</my:attendeeName>
+										<my:attendeeEmail>training.administrative@ecdc.europa.eu</my:attendeeEmail>
+									</my:attendee><my:attendee>
+										<my:attendeeName>Tenderer R programmer</my:attendeeName>
+										<my:attendeeEmail>r.programmer@tenderer.it</my:attendeeEmail>
+									</my:attendee><my:attendee>
+										<my:attendeeName>Tenderer service manager</my:attendeeName>
+										<my:attendeeEmail>service.manager@tenderer.it</my:attendeeEmail>
+									</my:attendee></my:attendees>
+	<my:discussionItems>
+		<my:discussionItem>
+			<my:discussionItemTitle>Introduction [90']</my:discussionItemTitle>
+			<my:discussionItemPresenter>Tenderer service manager</my:discussionItemPresenter>
+			<my:discussionItemNotes><div xmlns="http://www.w3.org/1999/xhtml">- [10'] presentations</div>
+<div xmlns="http://www.w3.org/1999/xhtml">- [10'] background</div>
+<div xmlns="http://www.w3.org/1999/xhtml">- [15'] MCAR subject area and training topics</div>
+<div xmlns="http://www.w3.org/1999/xhtml">- [15'] people to train (quantitative and qualitative description)</div>
+<div xmlns="http://www.w3.org/1999/xhtml">- [15'] periods and duration for the training</div>
+<div xmlns="http://www.w3.org/1999/xhtml">- [15'] follow-up support </div>
+<div xmlns="http://www.w3.org/1999/xhtml">- [10'] extra request (e.g. vignettes)</div></my:discussionItemNotes>
+			<my:discussionItemAttachment xsi:nil="true"></my:discussionItemAttachment>
+		</my:discussionItem>
+	<my:discussionItem>
+										<my:discussionItemTitle>MCAR design [120']</my:discussionItemTitle>
+										<my:discussionItemPresenter>ECDC package developer</my:discussionItemPresenter>
+										<my:discussionItemNotes><div xmlns="http://www.w3.org/1999/xhtml">- [30'] source code (class and method structure) and documentation</div>
+<div xmlns="http://www.w3.org/1999/xhtml">          (`?`-like, vignettes and/or website) overview</div>
+<div xmlns="http://www.w3.org/1999/xhtml">- [60'] main functions provided by package (aim/input/output/options)</div>
+<div xmlns="http://www.w3.org/1999/xhtml">- [30'] data provided by package (structure and aim)</div></my:discussionItemNotes>
+										<my:discussionItemAttachment xsi:nil="true"></my:discussionItemAttachment>
+									</my:discussionItem><my:discussionItem>
+										<my:discussionItemTitle>MCAR usage [90']</my:discussionItemTitle>
+										<my:discussionItemPresenter>ECDC package expert user</my:discussionItemPresenter>
+										<my:discussionItemNotes><div xmlns="http://www.w3.org/1999/xhtml">- [30'] state of the art and alternatives </div>
+<div xmlns="http://www.w3.org/1999/xhtml">- [30'] real-life case study presentation</div>
+<div xmlns="http://www.w3.org/1999/xhtml">- [30'] Q/A</div></my:discussionItemNotes>
+										<my:discussionItemAttachment xsi:nil="true"></my:discussionItemAttachment>
+									</my:discussionItem><my:discussionItem>
+										<my:discussionItemTitle>Training structure [150]</my:discussionItemTitle>
+										<my:discussionItemPresenter>Tenderer service manager</my:discussionItemPresenter>
+										<my:discussionItemNotes><div xmlns="http://www.w3.org/1999/xhtml">- [30'] SMART learning objectives definition</div>
+<div xmlns="http://www.w3.org/1999/xhtml">- [30'] ECDC quality check indicators</div>
+<div xmlns="http://www.w3.org/1999/xhtml">- [30'] format and learning methods</div>
+<div xmlns="http://www.w3.org/1999/xhtml">- [20'] general information requests</div>
+<div xmlns="http://www.w3.org/1999/xhtml">- [20'] technical information requests</div>
+<div xmlns="http://www.w3.org/1999/xhtml">- [20'] before, during and after training materials</div></my:discussionItemNotes>
+										<my:discussionItemAttachment xsi:nil="true"></my:discussionItemAttachment>
+									</my:discussionItem><my:discussionItem>
+										<my:discussionItemTitle>Training setup [30']</my:discussionItemTitle>
+										<my:discussionItemPresenter>ECDC training admininistrative</my:discussionItemPresenter>
+										<my:discussionItemNotes><div xmlns="http://www.w3.org/1999/xhtml">- [20'] general logistics (places, travel, accommodation, breaks)</div>
+<div xmlns="http://www.w3.org/1999/xhtml">- [10'] hardware support (white-/black-board, beamer, laptop, internet, …)</div></my:discussionItemNotes>
+										<my:discussionItemAttachment xsi:nil="true"></my:discussionItemAttachment>
+									</my:discussionItem></my:discussionItems>
+	<my:actionItems>
+		<my:actionItem>
+			<my:actionItemTitle>package access to tenderer (source)</my:actionItemTitle>
+			<my:actionItemAssignedTo>ECDC package developer</my:actionItemAssignedTo>
+			<my:actionItemDueBy>2018-12-07</my:actionItemDueBy>
+		</my:actionItem>
+	<my:actionItem>
+										<my:actionItemTitle>TC: further technical clarification</my:actionItemTitle>
+										<my:actionItemAssignedTo>Tenderer service manager</my:actionItemAssignedTo>
+										<my:actionItemDueBy>2018-12-21</my:actionItemDueBy>
+									</my:actionItem><my:actionItem>
+										<my:actionItemTitle>pre-course questionnaire to ECDC</my:actionItemTitle>
+										<my:actionItemAssignedTo>Tenderer service manager</my:actionItemAssignedTo>
+										<my:actionItemDueBy>2018-12-28</my:actionItemDueBy>
+									</my:actionItem><my:actionItem>
+										<my:actionItemTitle>pre-course questionnaire answers</my:actionItemTitle>
+										<my:actionItemAssignedTo>ECDC training manager</my:actionItemAssignedTo>
+										<my:actionItemDueBy>2019-01-11</my:actionItemDueBy>
+									</my:actionItem><my:actionItem>
+										<my:actionItemTitle>design and supporting materials</my:actionItemTitle>
+										<my:actionItemAssignedTo>Tenderer service manager</my:actionItemAssignedTo>
+										<my:actionItemDueBy>2019-02-08</my:actionItemDueBy>
+									</my:actionItem><my:actionItem>
+										<my:actionItemTitle>ECDC feedback/approval</my:actionItemTitle>
+										<my:actionItemAssignedTo>ECDC training manager</my:actionItemAssignedTo>
+										<my:actionItemDueBy>2019-02-22</my:actionItemDueBy>
+									</my:actionItem><my:actionItem>
+										<my:actionItemTitle>setup logistics</my:actionItemTitle>
+										<my:actionItemAssignedTo>ECDC training administrative</my:actionItemAssignedTo>
+										<my:actionItemDueBy>2019-03-01</my:actionItemDueBy>
+									</my:actionItem><my:actionItem>
+										<my:actionItemTitle>materials ready to attendees</my:actionItemTitle>
+										<my:actionItemAssignedTo>Tenderer service manager</my:actionItemAssignedTo>
+										<my:actionItemDueBy>2019-03-08</my:actionItemDueBy>
+									</my:actionItem></my:actionItems>
+</my:meetingAgenda>
